@@ -6,7 +6,7 @@ Demonstration on how simple it is to get started programming
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](https://youtu.be/tv0taxssMe8)
+[Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
